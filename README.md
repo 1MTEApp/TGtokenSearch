@@ -8,13 +8,13 @@
    - Скачать Python: https://www.python.org/downloads/
 
 2. Установите необходимые библиотеки:
-   ```bash
-   pip install pyTelegramBotAPI
-   ```
+ ```bash
+  pip install pyTelegramBotAPI
+ ```
 
 3. Пернесите репозиторий к себе:
   ```bash
-   git https://github.com/1MTEApp/TGtokenSearch
+   git clone https://github.com/1MTEApp/TGtokenSearch
    ```
  4. Запустите файл:
 ```bash
