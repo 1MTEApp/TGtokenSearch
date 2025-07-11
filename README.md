@@ -18,7 +18,7 @@
    ```
  4. Запустите файл:
 ```bash
-   cd TGtokenSearch
+cd TGtokenSearch
 python main.py
    ``` 
    
