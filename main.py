@@ -80,5 +80,5 @@ def main():
             exit()
 
 if __name__ == "__main__":
-    print("TGtokenSearch v1 - Управление ботами")
+    print("TGtokenSearch")
     main()
