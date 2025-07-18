@@ -3,7 +3,7 @@ import time
 
 print("ВНИМАНИЕ: Перед запуском обязательно включите VPN!")
 
-time.sleep(10)
+time.sleep(5)
 
 def main():
     token = input("Введите токен бота: ")
